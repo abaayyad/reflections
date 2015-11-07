@@ -7,3 +7,6 @@ it offers flexibility and the ability to commit files seperately
 
 How can you use the staging area to make sure you have one commit per logical change?
 it allows me to specify which files to commit therefore commits can be more accurate regarding a specific change in functionality
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When trying to implement two different methods or when trying a new feature, it assists us in modifying the code to test without affecting other features
