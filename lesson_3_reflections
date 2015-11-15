@@ -8,3 +8,10 @@ Describe the differences between forks, clones, and branches. When would you use
 forks -> make a copy of an online reposotory into your github account
 clone -> make a copy of an online/offline reposotory into your local machines
 branch -> create a new branch on th reposotory which you are using whether it's online or offline
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Knowing last online interaction is beneficial to predict the output of any command done in the future
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Dropbox, FInding means to explain what each member did would be much harder and evaluating merges and changes would be extremly harder
+easier to use and better interface and explaination
